@@ -1,0 +1,13 @@
+td{
+  padding: 2px;
+}
+tr:nth-child(even) td {
+  background-color: lightgrey;
+}
+
+input,
+textarea {
+  width : 30%;
+  border: 1px solid #333;
+  box-sizing: border-box;
+}
